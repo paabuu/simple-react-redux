@@ -10,5 +10,5 @@
 > 从Context中获取根组件传递的state
 
 ```
-(mapStateToProps, mapDispathToProps) => Component => ComponentWithPropsFromStore
+(mapStateToProps, mapDispathToProps) => Component => ComponentWithPropsFromState
 ```
