@@ -1,4 +1,4 @@
-## react-redux simplified version
+# react-redux simplified version
 
 #### Provider
 
